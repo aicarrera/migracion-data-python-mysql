@@ -2,7 +2,7 @@
 
 ## Descarga de Datasets
 
-Descargue el dataset seleccionado desde los siguientes enlaces:
+Descargue el dataset seleccionado desde los siguientes enlaces, el link al dataset en kaggle proporcionado en el proyecto para retail, es el mismo proporcionado a continuación. Sin embargo, para el de Iowa el dataset de Kaggle daba problemas y era muy grande (+20 millones) se recomienda bajar esta versión, las columnas son las mismas. 
 
 - **IOWA**: [Descargar IOWA](https://drive.google.com/file/d/19Hiz1GR3LwiUvonhj-k-zBZmllVcPEHm/view?usp=sharing)
 - **RETAIL**: [Descargar RETAIL](https://drive.google.com/file/d/1_Cer6NjpQoYvX-J6d8H-873DR4DeagGK/view?usp=sharing)
