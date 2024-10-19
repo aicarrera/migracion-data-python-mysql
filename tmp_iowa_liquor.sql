@@ -1,0 +1,27 @@
+CREATE TABLE `tmp_iowa_liquor` (
+  `Invoice/Item Number` text,
+  `Date` text,
+  `Store Number` int DEFAULT NULL,
+  `Store Name` text,
+  `Address` text,
+  `City` text,
+  `Zip Code` varchar(15) DEFAULT NULL,
+  `Store Location` text,
+  `County Number` varchar(10) DEFAULT NULL,
+  `County` text,
+  `Category` varchar(50) DEFAULT NULL,
+  `Category Name` varchar(200),
+  `Vendor Number` int DEFAULT NULL,
+  `Vendor Name` text,
+  `Item Number` int DEFAULT NULL,
+  `Item Description` text,
+  `Pack` int DEFAULT NULL,
+  `Bottle Volume (ml)` int DEFAULT NULL,
+  `State Bottle Cost` double DEFAULT NULL,
+  `State Bottle Retail` double DEFAULT NULL,
+  `Bottles Sold` int DEFAULT NULL,
+  `Sale (Dollars)` double DEFAULT NULL,
+  `Volume Sold (Liters)` double DEFAULT NULL,
+  `Volume Sold (Gallons)` double DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+
